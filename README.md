@@ -7,14 +7,12 @@ The dataset is composed of 16,800 characters written by 60 participants, the age
 
 The dataset was originally compiled by the following authors.
 
-A. El-Sawy, M. Loey, and H. EL-Bakry, “Arabic handwritten characters recognition using convolutional neural network,” WSEAS Transactions on Computer Research, vol. 5, pp. 11–19, 2017.
-https://doi.org/10.1007/978-3-319-48308-5_54
+* A. El-Sawy, M. Loey, and H. EL-Bakry, “Arabic handwritten characters recognition using convolutional neural network,” WSEAS Transactions on Computer Research, vol. 5, pp. 11–19, 2017.
+https://doi.org/10.1007/978-3-319-48308-5_54 , https://link.springer.com/chapter/10.1007/978-3-319-48308-5_54
 
-https://link.springer.com/chapter/10.1007/978-3-319-48308-5_54
-
-A. El-Sawy, H. EL-Bakry, and M. Loey, “CNN for handwritten arabic digits recognition based on lenet-5,” in Proceedings of the International Conference on Advanced Intelligent Systems and Informatics 2016, vol. 533, pp. 566–575, Springer International Publishing, 2016.
+* A. El-Sawy, H. EL-Bakry, and M. Loey, “CNN for handwritten arabic digits recognition based on lenet-5,” in Proceedings of the International Conference on Advanced Intelligent Systems and Informatics 2016, vol. 533, pp. 566–575, Springer International Publishing, 2016.
 https://www.wseas.org/multimedia/journals/computerresearch/2017/a045818-075.php
 
-Loey, Mohamed, Ahmed El-Sawy, and Hazem El-Bakry. "Deep learning autoencoder approach for handwritten arabic digits recognition." arXiv preprint arXiv:1706.06720 (2017).
+* Loey, Mohamed, Ahmed El-Sawy, and Hazem El-Bakry. "Deep learning autoencoder approach for handwritten arabic digits recognition." arXiv preprint arXiv:1706.06720 (2017).
 https://arxiv.org/abs/1706.06720
 
